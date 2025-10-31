@@ -1,4 +1,4 @@
-# Enchanted_golden_apple_recipe
+# Sponge_recipe
 This is a Paper plugin!
 
 MC version: 1.21+
