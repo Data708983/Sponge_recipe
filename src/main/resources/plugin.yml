@@ -1,0 +1,4 @@
+name: Sponge_recipe
+version: '1.0'
+main: org.data7.sponge_recipe.Sponge_recipe
+api-version: '1.21'
